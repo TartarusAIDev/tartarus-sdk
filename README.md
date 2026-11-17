@@ -1,6 +1,12 @@
+<p align="center">
+  <a href="https://tartarusai.dev/?utm_source=github&utm_medium=readme&utm_campaign=tartarus-sdk&utm_content=banner">
+    <img src="assets/banner.svg" alt="tartarus-sdk — Typed TypeScript client: chat, streaming, tool-calling" width="100%">
+  </a>
+</p>
+
 # tartarus-sdk
 
-**TypeScript client for the [Tartarus](https://tartarusai.dev) uncensored coding API.**
+**TypeScript client for the [Tartarus](https://tartarusai.dev/?utm_source=github&utm_medium=readme&utm_campaign=tartarus-sdk&utm_content=body) uncensored coding API.**
 
 [![npm](https://img.shields.io/npm/v/tartarus-sdk?style=flat-square&color=a3e635)](https://www.npmjs.com/package/tartarus-sdk)
 [![CI](https://img.shields.io/github/actions/workflow/status/TartarusAIDev/tartarus-sdk/ci.yml?style=flat-square&branch=main)](https://github.com/TartarusAIDev/tartarus-sdk/actions)
@@ -18,7 +24,7 @@ npm install tartarus-sdk
 ```
 
 Node 18+ (uses the built-in `fetch`). Get a token at
-[dash.tartarusai.dev](https://dash.tartarusai.dev) and export it:
+[dash.tartarusai.dev](https://dash.tartarusai.dev/?utm_source=github&utm_medium=readme&utm_campaign=tartarus-sdk&utm_content=body) and export it:
 
 ```bash
 export TARTARUS_TOKEN="your-token"
